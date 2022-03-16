@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">University Admission BD</string>
+    <string-array name="versityList">
+        <item>DU</item>
+        <item>RU</item>
+        <item>BAU</item>
+        <item>BUET</item>
+        <item>CU</item>
+        <item>JU</item>
+        <item>IU</item>
+        <item>SUST</item>
+        <item>KU</item>
+        <item>BSMMU</item>
+        <item>BSMRAU</item>
+        <item>HSTU</item>
+        <item>MBSTU</item>
+        <item>PSTU</item>
+        <item>SAU</item>
+        <item>DUET</item>
+        <item>RUET</item>
+        <item>CUET</item>
+        <item>KUET</item>
+        <item>JNU</item>
+        <item>JKNNIU</item>
+        <item>CVASU</item>
+
+        <item>StAU</item>
+        <item>CoU</item>
+        <item>NSTU</item>
+        <item>JUST</item>
+        <item>PUST</item>
+        <item>BUP</item>
+        <item>BRU</item>
+        <item>BUTex</item>
+        <item>BSMRSTU</item>
+        <item>RMSTU</item>
+        <item>BSMRMU</item>
+        <item>RMU</item>
+        <item>CMU</item>
+        <item>RUB</item>
+        <item>BDU</item>
+        <item>SHU</item>
+        <item>BSFMSTU</item>
+        <item>SMU</item>
+        <item>KAU</item>
+    </string-array>
+
+    <string-array name="Option">
+        <item>INFO</item>
+        <item>Admission</item>
+    </string-array>
+
+</resources>
